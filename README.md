@@ -1,0 +1,24 @@
+
+# Opérations CRUD avancées
+
+![URL_image](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20162650.png)
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20163744.png)
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20163811.png)
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20163850.png)
+
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20164010.png)
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20164118.png)
+
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20164214.png)
+
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20164302.png)
+
+
+![URL](https://github.com/fe045001-netizen/Tp4bd/blob/1a7cc7f3a915dcfe3edb8095a66bd919eff1f834/Capture%20d%E2%80%99%C3%A9cran%202025-12-16%20164854.png)
